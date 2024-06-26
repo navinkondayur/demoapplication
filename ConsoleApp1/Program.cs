@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("first line by nvk");
             Console.WriteLine("Second line  by raju");
-            Console.WriteLine("Second line incorrected by raju");
+            Console.WriteLine("Second line incorrect code by raju corrected by Pushpa");
             Console.WriteLine("Third line by Ankita");
             Console.WriteLine("Fourth line by Pushpa");
         }
